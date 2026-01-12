@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Malka Shneider
 
 🚀 Software Developer | Frontend & DevOps Enthusiast 
-✉️  559120b@gmail.com  
-📱  +972-55-673-4462  
+
+✉️  559120b@gmail.com  | 
+📱  +972-55-673-4462  |
 🌐 Portfolio: https://malkashneider.lovable.app  
 
 💡 Passionate about clean code, problem-solving, and modern web technologies
