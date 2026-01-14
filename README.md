@@ -25,6 +25,7 @@ I am especially interested in:
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks**
+- Java
 - JavaScript / TypeScript
 - React, Angular
 - Node.js
