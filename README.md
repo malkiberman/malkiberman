@@ -1,82 +1,81 @@
-# 👋 Hi, I'm Malka Shneider
+# 👋 Hi, I'm Malka Shneider  
+🚀 Software Developer | Full-Stack & DevOps
 
-🚀 Software Developer | FullStack & DevOps Enthusiast 
-
-✉️  559120b@gmail.com  | 
-📱  +972-55-673-4462  |
+📧 559120b@gmail.com  
+📱 +972-55-673-4462  
 🌐 Portfolio: https://malkashneider.lovable.app  
-
-💡 Passionate about clean code, problem-solving, and modern web technologies
 
 ---
 
-## 🧠 About Me
+## 💡 About Me
+Software Engineering graduate with a strong logical mindset and hands-on experience in building modern web applications.
 
-I am a Software Engineering graduate with a strong logical mindset and hands-on experience in building modern applications.  
-I enjoy turning complex problems into clean, efficient, and user-friendly solutions.
+I enjoy turning complex requirements into clean, efficient, and user-friendly solutions, with an emphasis on maintainable code and solid system design.  
+Comfortable working end-to-end — from frontend and backend to deployment and cloud environments.
 
-I am especially interested in:
-- Frontend development with modern frameworks
-- System design and clean architecture
-- DevOps tools and cloud-based deployments
+---
+
+## 🧠 Areas of Interest
+- Frontend development with modern frameworks  
+- Clean architecture & system design  
+- Backend development & API integrations  
+- DevOps tools and cloud-based deployments  
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- Java
-- JavaScript / TypeScript
-- React, Angular
-- Node.js
-- C#, .NET
-- Python
+### Languages & Frameworks
+- Java  
+- JavaScript / TypeScript  
+- React, Angular  
+- Node.js  
+- C#, .NET  
+- Python  
 
-**Databases**
-- PostgreSQL, MySQL, SQL Server
+### Databases
+- PostgreSQL  
+- MySQL  
+- SQL Server  
 
-**DevOps & Cloud**
-- Docker, CI/CD
-- Kubernetes (basic experience)
-- Render, AWS (learning & experimentation)
+### DevOps & Cloud
+- Docker, CI/CD  
+- Kubernetes (basic experience)  
+- Render, AWS (hands-on learning & experimentation)  
 
-**Tools**
-- Git & GitHub
-- REST APIs
-- Linux & Windows environments
+### Tools
+- Git & GitHub  
+- REST APIs  
+- Linux & Windows environments  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🔹 CodePilot
-A React-based application for viewing, managing, and comparing different versions of source code.
+A React-based web application for viewing, managing, and comparing different versions of source code.
 
-🌐 Live App:  
+🌐 **Live App:**  
 https://codepilotreact.onrender.com/
 
-👉 Focus areas:
-- Clean UI & UX
-- Code version comparison
-- Modular React architecture
-- Cloud deployment
+**Key Focus Areas:**
+- Clean and intuitive UI/UX  
+- Code version comparison  
+- Modular React architecture  
+- Cloud deployment  
 
 ---
 
 ## 🎯 What I Bring
-
-- Strong analytical thinking
-- Fast learner with high motivation
-- Clean, readable, and maintainable code
-- Ability to work independently and in teams
+- Strong analytical and problem-solving skills  
+- Fast learner with high motivation  
+- Clean, readable, and maintainable code  
+- Ability to work independently and as part of a team  
 
 ---
 
 ## 📫 Let's Connect
+You’re already on my GitHub 🙂  
+Open to collaboration, learning opportunities, and junior / early-career developer roles.
 
-- GitHub: You are already here 🙂
-- Open to collaboration, learning opportunities, and junior developer roles
-
----
-
-⭐ If you like my work — feel free to explore my repositories!
+⭐ Feel free to explore my repositories!
