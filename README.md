@@ -76,6 +76,6 @@ https://codepilotreact.onrender.com/
 
 ## 📫 Let's Connect
 You’re already on my GitHub 🙂  
-Open to collaboration, learning opportunities, and junior / early-career developer roles.
+Open to collaboration, learning opportunities.
 
 ⭐ Feel free to explore my repositories!
