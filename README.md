@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Malka Shneider
 
-🚀 Software Developer | Frontend & DevOps Enthusiast 
+🚀 Software Developer | FullStack & DevOps Enthusiast 
 
 ✉️  559120b@gmail.com  | 
 📱  +972-55-673-4462  |
