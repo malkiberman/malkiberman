@@ -20,6 +20,9 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+![Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=malkiberman&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkiberman&layout=compact&theme=radical)
+
 Passionate software developer with strong logical thinking, clean architecture mindset, and hands-on experience building real-world applications from idea to deployment.
 
 I love transforming complex business needs into smart, scalable, and user-friendly solutions.
