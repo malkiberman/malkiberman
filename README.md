@@ -1,107 +1,183 @@
-<!-- 🎯 HEADER BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Malka%20Shneider&fontSize=40&fontColor=ffffff" />
-</p>
+# 👋 Hi, I'm Malka Shneider
 
-<h3 align="center">🚀 Full Stack Developer | DevOps Enthusiast | Problem Solver</h3>
+## 🚀 Full Stack Developer | DevOps Enthusiast | Problem Solver
 
-<p align="center">
-I build scalable systems from idea → production with clean architecture and real business impact.
-</p>
+## 🛠️ Tech Stack
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## ⚡ Tech Stack 
+![Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=malkiberman&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malkiberman&layout=compact&theme=radical)
 
-<p align="center">
+Passionate software developer with strong logical thinking, clean architecture mindset, and hands-on experience building real-world applications from idea to deployment.
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
-
-## 📊 GitHub Stats (Live)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malkiberman&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malkiberman&layout=compact&theme=radical" width="40%"/>
-</p>
+I love transforming complex business needs into smart, scalable, and user-friendly solutions.
+From frontend interfaces to backend systems, databases, cloud deployment, and DevOps workflows — I enjoy building products end-to-end.
 
 ---
 
-# 🚀 Featured Projects (With Visuals)
+## 🌐 Connect With Me
+
+📧 Email: [559120b@gmail.com](mailto:559120b@gmail.com)
+📱 Phone: +972-55-673-4462
+💼 Portfolio: [https://malkashneider.lovable.app](https://malkashneider.lovable.app)
+⚙️ GitHub: [https://github.com/malkiberman](https://github.com/malkiberman)
 
 ---
 
-## 🔹 HireSense — Smart Recruitment Engine
+## 💡 About Me
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/hiresense.gif" width="700"/>
-</p>
+🎓 Software Engineering Graduate
+💻 Full Stack Developer
+☁️ DevOps & Cloud Enthusiast
+🚀 Passionate about building meaningful products with real business impact
 
-### 💡 What it does:
-AI-driven recruitment system that automates candidate ranking and improves hiring decisions.
+I focus on writing clean, maintainable code and creating systems that are not only functional — but truly valuable.
 
-### 🔥 Highlights:
-- Smart candidate matching  
-- Resume analysis engine  
-- Ranking system  
-- Recruitment dashboard  
-- Scalable architecture  
+I enjoy working on:
 
-📈 **Impact:** Faster hiring + better decisions
-
----
-
-## 🔹 CodePilot — Code Comparison Platform
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/codepilot.gif" width="700"/>
-</p>
-
-### 💡 What it does:
-Tool for comparing and managing multiple versions of source code visually.
-
-### 🔥 Features:
-- Version comparison engine  
-- File management system  
-- Clean UI  
-- Cloud deployment  
-
-🌐 Live Demo: https://codepilotreact.onrender.com/
+* Smart business systems
+* AI-based solutions
+* Recruitment platforms
+* Developer tools
+* Cloud-based applications
+* Scalable backend architecture
 
 ---
 
-## 🔹 Cloud-Native Voting System
+## 🧠 Areas of Expertise
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/kubernetes.gif" width="700"/>
-</p>
+### Frontend Development
 
-### 💡 What it does:
-Microservices voting system deployed on Kubernetes with full cloud architecture.
+Modern UI/UX with strong focus on usability, performance, and clean design.
 
-### 🔥 Features:
-- Kubernetes orchestration  
-- Microservices design  
-- Redis + PostgreSQL  
-- Worker services  
-- Cloud-native setup  
+### Backend Development
+
+APIs, business logic, system architecture, and scalable server-side solutions.
+
+### DevOps & Deployment
+
+Docker, CI/CD pipelines, cloud deployment, infrastructure thinking.
+
+### Database Design
+
+Relational databases, optimization, clean data structure design.
 
 ---
 
-# 🧠 About Me
+## 🛠️ Tech Stack
 
-```text
-✔ Strong system design thinking
-✔ Fast learner
-✔ High ownership mindset
-✔ Clean architecture focus
-✔ End-to-end product builder
+### Languages
+
+`Java` `JavaScript` `TypeScript` `Python` `C` `C#` `C++` `SQL`
+
+### Frontend
+
+`React` `Angular` `HTML5` `CSS3` `Flutter`
+
+### Backend
+
+`Node.js` `.NET` `REST APIs`
+
+### Databases
+
+`PostgreSQL` `MySQL` `SQL Server`
+
+### DevOps & Cloud
+
+`Docker` `CI/CD` `Kubernetes` `Render` `AWS`
+
+### Tools
+
+`Git` `GitHub` `Linux` `Windows` `Jenkins`
+
+---
+
+## 🚀 Featured Projects
+
+# 🔹 HireSense
+
+### Smart Recruitment Decision Engine
+
+HireSense is not just another recruitment platform — it is a smart decision engine for modern hiring.
+
+The system helps companies reduce manual screening, improve candidate matching, and make faster, more accurate hiring decisions.
+
+### Key Features:
+
+* Smart candidate matching
+* Resume analysis system
+* Candidate ranking engine
+* Recruitment workflow dashboard
+* Decision support system
+* AI-ready future architecture
+
+### Business Impact:
+
+✔ Faster recruitment process
+✔ Better hiring decisions
+✔ Reduced human errors
+✔ Higher recruitment efficiency
+✔ Real business value
+
+---
+
+# 🔹 CodePilot
+
+### Code Version Comparison System
+
+A React-based web application for viewing, managing, and comparing multiple versions of source code files.
+
+### Key Features:
+
+* Code version comparison
+* File management system
+* Clean UI/UX
+* Modular architecture
+* Cloud deployment
+
+🌐 Live Demo:
+[https://codepilotreact.onrender.com/](https://codepilotreact.onrender.com/)
+
+---
+
+## 🎯 What I Bring
+
+✔ Strong analytical thinking
+✔ Fast learning ability
+✔ High ownership and responsibility
+✔ Clean and maintainable code mindset
+✔ Real passion for software development
+✔ Strong motivation for continuous growth
+
+I don’t just write code — I build solutions.
+
+---
+
+## 📫 Let’s Connect
+
+Always open to:
+
+* Junior developer opportunities
+* Full Stack roles
+* DevOps opportunities
+* Collaborations
+* Hackathons
+* Interesting technical challenges
+
+⭐ Feel free to explore my repositories and connect with me.
+
+---
