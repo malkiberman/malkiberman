@@ -11,7 +11,7 @@ I build scalable systems from idea → production with clean architecture and re
 
 ---
 
-## ⚡ Tech Stack (Pixel Style Badges)
+## ⚡ Tech Stack 
 
 <p align="center">
 
